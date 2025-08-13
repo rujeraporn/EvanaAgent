@@ -1,1 +1,3 @@
-GEOGCS["GCS_WGS_1984",DATUM["D_WGS84",SPHEROID["WGS84",6378137,298.257223560493]],PRIMEM["Greenwich",0],UNIT["Degree",0.017453292519943295]]
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dc1c794f43bfdd3d96a618e236dfd7032959af3602f444764d64eedf12fbdb5
+size 141
